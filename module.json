@@ -1,0 +1,30 @@
+{
+  "id": "the-rats-gambit",
+  "title": "The Rat's Gambit",
+  "version": "1.0.1",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "description": "Here's a one-player Pirate Borg one-shot designed as a tutorial to introduce players to the system, focusing on the Rapscallion class. This one-shot introduces character creation, exploration, combat, and class abilities in a step-by-step, immersive way.",
+  "authors": [
+    {
+      "name": "FrogDaPirate",
+      "discord": "FrogDaPirate",
+      "flags": {}
+    }
+  ],
+  "packs": [
+    {
+      "name": "the-rats-gambit",
+      "label": "The Rat's Gambit",
+      "path": "packs/the-rats-gambit",
+      "type": "Adventure",
+      "system": "pirateborg",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ]
+}
